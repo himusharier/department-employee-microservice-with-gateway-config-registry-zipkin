@@ -6,3 +6,4 @@ run zipkin in docker:
 1. go to: https://hub.docker.com/r/openzipkin/zipkin/
 2. copy: docker run -d -p 9411:9411 openzipkin/zipkin
 3. run the copied command in terminal
+4. or, use jar to run zipkin.
